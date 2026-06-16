@@ -20,6 +20,13 @@ A full-stack, production-grade e-commerce web application built with the MERN st
 - **bcryptjs** — Password hashing
 - **Multer** — Image file uploads
 - **CORS** — Cross-origin resource sharing
+- ## Features
+
+- User Authentication (JWT)
+- Product Search & Filtering
+- Shopping Cart Management
+- Admin Dashboard
+- Responsive Design
 
 ---
 
